@@ -1,0 +1,14 @@
+Com base no seguinte enunciado, desenvolva a seguinte aplicação utilizando orientação a objetos
+
+Nao resolva o problema de uma vez, divida em partes, e na resposta, me explique cada uma das etapas, dizendo o que foi feito
+e porquê foi feito
+
+O enunciado é o seguinte:
+
+Você precisa desenvolver um sistema simples de gerenciamento de biblioteca em
+C#/Java.
+O sistema deve:
+1. Ter uma classe Livro com propriedades como Titulo, Autor e AnoPublicacao.
+2. Ter uma classe Biblioteca que armazene uma lista de livros.
+3. Permitir adicionar novos livros, listar todos os livros e buscar livros por autor.
+4. (Desafio extra) – Permitir remover livros da biblioteca.
